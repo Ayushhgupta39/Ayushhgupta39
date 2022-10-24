@@ -1,8 +1,8 @@
 Hi there, I am Ayush Gupta 👋
-• Open-Source
-• Competitive-Programming
-• Development
-• CPP
+• Open-Source <br>
+• Competitive-Programming <br> 
+• Development <br> 
+• CPP <br> 
 [![@ayushh's Holopin board](https://holopin.me/ayushh)](https://holopin.io/@ayushh)
 
 <!--
