@@ -1,4 +1,4 @@
-Hi there, I am Ayush Gupta 👋
+Hi there, I am Ayush Gupta 👋 <br>
 • Open-Source <br>
 • Competitive-Programming <br> 
 • Development <br> 
