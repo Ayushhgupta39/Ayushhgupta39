@@ -1,4 +1,9 @@
-### Hi there 👋
+Hi there, I am Ayush Gupta 👋
+• Open-Source
+• Competitive-Programming
+• Development
+• CPP
+[![@ayushh's Holopin board](https://holopin.me/ayushh)](https://holopin.io/@ayushh)
 
 <!--
 **Ayushhgupta39/Ayushhgupta39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
