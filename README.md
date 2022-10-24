@@ -1,7 +1,8 @@
 Hi there, I am Ayush Gupta 👋 <br>
 • Open-Source <br>
-• Competitive-Programming <br> 
-• Development <br> 
+• Competitive-Programming 🔢 <br> 
+• Development 🕸️ <br> 
+• Hacktoberfest2022✅ <br>
 • CPP <br> 
 [![@ayushh's Holopin board](https://holopin.me/ayushh)](https://holopin.io/@ayushh)
 
