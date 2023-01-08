@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h3>🙋‍♂️Hi, I'm Ayush Gupta</h3><br>
+🙋‍♂️Hi, I'm Ayush Gupta><br>
 
 - 🔭 I’m currently working on **Dfinity's ICP Blockchain**
 
