@@ -30,4 +30,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Ayushhgupta39&icon=0&color=1)](https://visitcount.itsvg.in)
 
+[![An image of @ayushh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayushh)](https://holopin.io/@ayushh)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
