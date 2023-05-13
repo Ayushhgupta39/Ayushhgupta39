@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Blockchain Development**
 
-- 👯 I’m looking to collaborate on **Web3 Projects**
+- 👯 I’m looking to collaborate on **Full-stack** and **Web3 Projects**
 
 ## 🌐 Socials:
 <p align="left">
