@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Blockchain development<br>💬 Ask me about react, nextjs and node<br>📫 How to reach me ayushgupta3902@gmail.com
+<h5>🌱 I’m currently learning Blockchain development<br>💬 Ask me about react, nextjs and node<br>📫 How to reach me ayushgupta3902@gmail.com</h5>
 
 
 ## 🌐 Socials:
