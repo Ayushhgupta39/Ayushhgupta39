@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🌱 I’m currently learning Blockchain development
+- 🌱 I’m currently mastering MERN development
 - 💬 Ask me about react, nextjs and node
 - 📫 How to reach me ayushgupta3902@gmail.com
 
