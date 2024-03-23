@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🌱 I’m currently mastering Full Stack development
+- 🌱 I’m currently mastering Full Stack Web development
 - 💬 Ask me about react, nextjs and node
 - 📫 How to reach me ayushgupta3902@gmail.com
 
